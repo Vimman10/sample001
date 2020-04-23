@@ -1,0 +1,81 @@
+<!Doctype CSS>
+
+body{
+	background-image:url('bg-repeat1.jpg');
+}
+pre{
+	font-size:15px;
+}
+#code{
+	font-family:Consolas;
+}
+h1{
+	font-size:20px;
+	background-color:yellow;
+	margin:auto;
+}
+table, th, td {
+  border-left:3px solid #555555;
+}
+#CssH1{
+	border:3px solid #FF0000;
+	border-radius:10px;
+	color:#0000FF;
+	background-color:#FFFF88;
+	padding-left:10px;
+	width:290px;
+	font-size:30px;
+	font-family:Arial;
+}
+#table1{
+	border:1px solid;
+	border-left:1px solid;
+}
+#divhead{
+	color:white;
+	font-size:25px;
+	padding-top:15px;
+	background-color:#555555;
+	text-align:center;
+	width:1000px;
+	height:40px;
+	margin:auto;
+	margin-bottom:5px;
+}
+#inviz{
+	Visibility:hidden;
+}
+#btns{
+	margin-top:5px;
+	font-family:Arial;
+	font-size:12px;
+}
+#divBoard{
+	border:1px solid #dfdfdf;
+	background-color:white;
+	width:990px;
+	height:500px;
+	padding:5px;
+	margin:auto;
+	overflow:auto;
+}
+#divIN1{
+	font-size:20px;
+}
+
+.button{
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	}
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */ 
+.button4 {background-color: #e7e7e7; color:#000000;} /* Gray */ 
+.button5 {background-color: #555555;} /* Black */
